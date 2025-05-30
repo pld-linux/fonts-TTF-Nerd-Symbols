@@ -6,6 +6,7 @@ License:	MIT
 Group:		Fonts
 Source0:	https://github.com/ryanoasis/nerd-fonts/releases/download/v%{version}/NerdFontsSymbolsOnly.zip
 # Source0-md5:	a0caf173734e58937970550b8dcab9c8
+URL:		https://www.nerdfonts.com/
 BuildRequires:	unzip
 Requires(post,postun):	fontpostinst
 BuildArch:	noarch
